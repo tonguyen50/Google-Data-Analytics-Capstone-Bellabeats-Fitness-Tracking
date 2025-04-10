@@ -42,10 +42,10 @@ Dataset is from 2016 and is not recent
 2. Created Totaltime Time Tracked Column
 3. Created Day of The Week Column
 4. Checked for nulls and duplicates 
-#### Data Analysis - SQL Link to Sqlfile here
+#### Data Analysis - [SQL Link to Sqlfile here](https://github.com/tonguyen50/Google-Data-Analyytics-Capstone-Bellabeats-Fitness-Tracking/blob/main/Bellabeat%20SQL.sql)
 
 
-Link dashboard here
+[Link to Tableau Dashboard here](https://public.tableau.com/views/BellabeatsTableauWorkbook/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 #### Average Steps Taken and Average Calories Burnt Daily
