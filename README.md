@@ -1,4 +1,4 @@
-# Google-Data-Analyytics-Capstone-Bellabeats-Fitness-Tracking
+# Google Data Analyytics Capstone Bellabeats Fitness Tracking
 
 ## Bellabeat Fitness Tracking Case Study
 
